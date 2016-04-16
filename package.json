@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/matrharr/addition-matrharr/issues"
   },
-  "homepage": "https://github.com/matrharr/addition-matrharr#readme"
+  "homepage": "https://github.com/matrharr/addition-matrharr#readme",
+  "devDependencies": {
+    "tap": "^5.7.1"
+  }
 }
