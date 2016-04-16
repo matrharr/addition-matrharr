@@ -1,0 +1,24 @@
+{
+  "name": "addition-matrharr",
+  "version": "0.0.1",
+  "description": "foo bar",
+  "main": "addition.js",
+  "scripts": {
+    "test": "tap *.tap.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matrharr/addition-matrharr.git"
+  },
+  "keywords": [
+    "addition",
+    "matt",
+    "harris"
+  ],
+  "author": "Matt Harris (@matrharr)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/matrharr/addition-matrharr/issues"
+  },
+  "homepage": "https://github.com/matrharr/addition-matrharr#readme"
+}
